@@ -1,2 +1,3 @@
-# same-airbnb-but-only-for-beach-house-villas-c06ffb
-Deployment for project same-airbnb-but-only-for-beach-house-villas-c06ffb
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately

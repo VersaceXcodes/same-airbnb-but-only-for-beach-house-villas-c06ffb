@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752761813093,
+  "operation": {
+    "id": "db:schemas:zod"
+  },
+  "projectId": "same-airbnb-but-only-for-beach-house-villas",
+  "files": [
+    {
+      "path": "../../apps/same-airbnb-but-only-for-beach-house-villas/backend/schema.ts",
+      "type": "text",
+      "size": 36542,
+      "dependencies": false
+    }
+  ]
+}
